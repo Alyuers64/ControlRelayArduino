@@ -1,7 +1,6 @@
-# Finger-Relay
-Control LED Using Finger (Simulation)
+# Control LED Using Finger (Simulation)
 
-# DESKRIPSI
+# Description
 - Arduino Uno
 - Relay 4 CH
 - Breadboard
