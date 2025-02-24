@@ -3,7 +3,7 @@
 # Description
 Tools
 - Arduino Uno
-- Relay 4 CH
+- Relay
 - Breadboard
 - LED (3)
 - Resistor (1k)
